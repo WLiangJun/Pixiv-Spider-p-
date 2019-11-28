@@ -11,3 +11,5 @@
 2.由于是基于selenium和requests开发的，所以chromedriver.exe（自行下载）  和你的Google浏览器版本要对应。
 3.注意配置config.json的下载路径和安装的谷歌浏览器路径设置。
 4.自行解决代理问题
+
+github：https://github.com/WLiangJun/PixivSpider/tree/master/PixivSpider
