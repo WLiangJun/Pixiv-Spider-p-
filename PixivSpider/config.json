@@ -1,0 +1,8 @@
+{
+	"download_dir": "E:\\多媒体\\pyspider", 
+	"google_dir": "C:\\Users\\Mimikko\\AppData\\Local\\Google\\Chrome\\User Data",
+	"threads_num": 3,
+	"retry_num": 4,
+	"time_scroll": 2,
+	"time_wait": 2
+}
