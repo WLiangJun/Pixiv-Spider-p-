@@ -12,4 +12,4 @@
 3.注意配置config.json的下载路径和安装的谷歌浏览器路径设置。
 4.自行解决代理问题
 
-github：https://github.com/WLiangJun/PixivSpider/tree/master/PixivSpider
+github：https://github.com/WLiangJun/PixivSpider
